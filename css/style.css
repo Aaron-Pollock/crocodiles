@@ -214,6 +214,7 @@ margin: 27px;
    
         .imgsmall {
             display : inline;
+             gap: 20px;
 }
     }
  
