@@ -18,7 +18,7 @@ img {
 
 /*---- styling typography ----*/
 h2, strong {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Inknut Antiqua', serif;
     color: #416469
 }
 
@@ -185,7 +185,7 @@ h2{
 
 h1{
     font-size:3rem;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Inknut Antiqua', serif;
     margin: 2rem 0 1rem 0;
         }
 footer p {
