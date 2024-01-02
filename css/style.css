@@ -16,6 +16,12 @@ img {
     max-width: 100%;
 }
 
+.imgtop { 
+    display: block;
+    padding: 0;
+    min-width: 100%;
+}
+
 /*---- styling typography ----*/
 h2, strong {
     font-family: 'Ubuntu', sans-serif;
@@ -128,6 +134,7 @@ footer p {
     display : grid;
     grid-template-columns: repeat(auto-fill, minmax(375px,1fr));
     gap: 20px;
+    min-width : 800px;
 }
 
 .leader {
