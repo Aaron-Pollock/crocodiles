@@ -215,7 +215,7 @@ margin: 27px;
         .imgsmall {
             display : inline;
              gap: 20px;
-            max-width : 750px;
+            max-width : 400px;
             padding: 0px 40px;
 }
     }
