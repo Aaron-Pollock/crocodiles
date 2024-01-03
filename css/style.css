@@ -128,7 +128,6 @@ footer p {
     display : grid;
     grid-template-columns: repeat(auto-fill, minmax(375px,1fr));
     gap: 20px;
-    min-width : 750px;
 }
 
 .leader {
@@ -215,7 +214,7 @@ margin: 27px;
         .imgsmall {
             display : inline;
              gap: 20px;
-            max-width : 400px;
+            max-width : 390px;
             padding: 0px 40px;
 }
     }
